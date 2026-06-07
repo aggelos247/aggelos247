@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px" height="45px">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px" />
 
-# Hey, I'm aggelos247!
+# Hey, I'm aggelos247
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=24\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=500\&lines=Full+Stack+Developer;Exploring+AI+%26+Machine+Learning;Based+in+Greece)](https://git.io/typing-svg)
+### Full Stack Developer from Greece 🇬🇷
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+Java+%7C+PHP;Exploring+AI+%26+Machine+Learning;Building+clean+and+powerful+projects" alt="Typing SVG" />
 
 </div>
 
@@ -16,19 +18,18 @@
 
 <p>
 I'm a passionate developer from Greece with a love for building clean, useful, and creative projects.
-<br>
 I enjoy turning complex problems into simple solutions and constantly learning new technologies.
 </p>
 
 <p>
-🌍 Based in <b>Greece</b>
-<br>
-💻 Full Stack Developer
-<br>
-🌱 Currently exploring <b>AI & Machine Learning</b>
-<br>
-💬 Ask me about <b>JavaScript, backend development, bots, and web apps</b>
-<br>
+🌍 Based in <b>Greece</b>  
+<br/>
+💻 Full Stack Developer  
+<br/>
+🌱 Currently exploring <b>AI & Machine Learning</b>  
+<br/>
+💬 Ask me about <b>JavaScript, backend development, bots, and web apps</b>  
+<br/>
 ⚡ I like building projects that look good and actually work
 </p>
 
@@ -40,61 +41,28 @@ I enjoy turning complex problems into simple solutions and constantly learning n
 
 ## 🛠️ Tech Stack
 
+### Languages
+
 <p>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-</a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="36" height="36" />
-</a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxt.js" title="Nuxt.js" width="36" height="36" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-</a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" />
-</a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" />
-</a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" />
-</a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" title="WordPress" width="36" height="36" />
-</a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" />
-</a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,php,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,nodejs,laravel,django" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,ubuntu,wordpress" />
+</p>
+
+### Design & Creative
+
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,blender" />
 </p>
 
 </div>
@@ -105,22 +73,12 @@ I enjoy turning complex problems into simple solutions and constantly learning n
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/aggelos247">
-<img src="https://github-readme-stats.vercel.app/api?username=aggelos247&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="aggelos247's GitHub stats" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aggelos247&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" />
 
-<br>
-<br>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aggelos247&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
-<a href="https://github.com/aggelos247">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aggelos247&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</a>
+<br/><br/>
 
-<br>
-<br>
-
-<a href="https://github.com/aggelos247">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggelos247&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages" />
-</a>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggelos247&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=ffffff" />
 
 </div>
