@@ -64,6 +64,7 @@ I enjoy turning complex problems into simple solutions and constantly learning n
 
 <p>
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,blender" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="DaVinci Resolve" title="DaVinci Resolve" width="48" height="48" />
 </p>
 
 </div>
